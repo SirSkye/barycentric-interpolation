@@ -7,6 +7,6 @@ One significant difference to note is that the coordinate system is the default 
 # How does it work?
 TBD....
 
-#References
+# References
 These are some of the references I used:
 https://www.scratchapixel.com/lessons/3d-basic-rendering/ray-tracing-rendering-a-triangle/barycentric-coordinates.html
