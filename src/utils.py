@@ -1,5 +1,6 @@
 from collections import namedtuple
 
 Point = namedtuple("Point", ['x', 'y'])
-Colour = namedtuple("Colour", ['R', 'G', 'B'])
-Vertex = namedtuple("Vertex", ["Point", "Colour"])
+Colour = namedtuple("Colour", ['r', 'g', 'b'])
+Vertex = namedtuple("Vertex", ["point", "colour"])
+BarycentricPoint = namedtuple("Bary", ["alpha", "beta", "gamma"])
